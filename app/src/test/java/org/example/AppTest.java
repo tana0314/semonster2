@@ -18,4 +18,5 @@ public class AppTest {
     App classUnderTest = new App();
     assertEquals("こんにちは SEMonster", classUnderTest.getGreeting());
   }
+
 }
